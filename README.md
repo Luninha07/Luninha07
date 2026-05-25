@@ -7,7 +7,7 @@
 
 ---
 
-👩‍💻 **Desenvolvedora Front-End em formação | Estudante de ADS**
+👩‍💻 **Desenvolvedora Front-End em formação | Estudante de ADS**  
 📚 Aprendendo e explorando novas tecnologias para criar interfaces modernas, acessíveis e funcionais.
 
 ---
